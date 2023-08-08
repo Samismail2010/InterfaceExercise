@@ -1,4 +1,4 @@
-# InterfaceExcersise
+# Interface Excersise REFACTOR
 <h2>Description</h2>
 <p>Quick excercise using <b>Java</b>, extracting 3 interfaces
   <br>Notification Service
